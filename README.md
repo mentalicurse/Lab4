@@ -28,6 +28,21 @@ cmake ..
 make
 ```
 ###
+### Запуск проекта
+```
+./main
+```
+##### Пример ввода
+```
+1. Encrypt folder
+2. Decrypt folder
+Choose action: <выбор действия> //enter
+Enter folder path: <ввод пути до нужной папки>//enter
+Enter password: <ввод пароля для шифрования/дешифрования>//еnter
+<Вывод результата(либо "Encryption is done!", либо "Decryption is done!")>
+```
+#####
+###
 ### Структура проекта
 ```
 Lab4/
